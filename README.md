@@ -31,7 +31,7 @@ An interactive and powerful **AI chatbot with UI**, built using [Groq API](https
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/groq-streamlit-chatbot.git
+git clone https://github.com/reth0608/nlp_project/
 cd groq-streamlit-chatbot
 ```
 
